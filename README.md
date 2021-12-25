@@ -10,7 +10,7 @@
 </div>
 
 This is a sample project created for the purpose of learning and demonstration of Microsoft Azure skills during the
-<a href="https://futurereadytalent.in/">Future Ready Talent Program</a>.
+<a href="https://futurereadytalent.in/" target="_blank">Future Ready Talent Program</a>.
 Therefore, this project is not intended for commercial deployment.
 
 This is a simple hospital website. It is a responsive front-end static website that allows the users to have a look on layout of the website having different features.
@@ -18,7 +18,7 @@ Any user (patient) can have a look on different features of layout of the webist
 
 <br />
 
-## Webiste sapmple ~ <a href="https://nice-plant-085155400.azurestaticapps.net/">MedCare</a>
+## Webiste sapmple ~ <a href="https://nice-plant-085155400.azurestaticapps.net/" target="_blank">MedCare</a>
 
 ### Note: Used Lorem Ipsum content for sample website.
 
