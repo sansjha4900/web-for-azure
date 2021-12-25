@@ -1,4 +1,4 @@
-[![Build Status](https://github.com/amanb12/hospitalAppointmentControl/actions/workflows/master_hospital-appointment-control-system.yml/badge.svg?branch=master)](https://github.com/amanb12/hospitalAppointmentControl/actions/workflows/master_hospital-appointment-control-system.yml)
+[![Build Status](https://github.com/amanb12/hospitalAppointmentControl/actions/workflows/master_hospital-appointment-control-system.yml/badge.svg?branch=master)](https://github.com/sansjha4900/web-for-azure/actions/workflows/azure-static-web-apps-nice-plant-085155400.yml)
 <br />
 
 ## About The Project
