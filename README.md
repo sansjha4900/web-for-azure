@@ -1,4 +1,4 @@
-[![Build Status](https://github.com/sansjha4900/web-for-azure/blob/89463728e00381bed49a806c760e5ca61efadb6c/.github/workflows/azure-static-web-apps-nice-plant-085155400.yml](https://github.com/sansjha4900/web-for-azure/actions/workflows/main_azure-static-web-apps-nice-plant-085155400.yml)
+[![Build Status](https://github.com/amanb12/hospitalAppointmentControl/actions/workflows/master_hospital-appointment-control-system.yml/badge.svg?branch=master)](https://github.com/amanb12/hospitalAppointmentControl/actions/workflows/master_hospital-appointment-control-system.yml)
 <br />
 
 ## About The Project
@@ -18,12 +18,7 @@ Any user (patient) can have a look on different features of layout of the webist
 
 <br />
 
-## Webiste sapmple
-
-<div>
-  <a href="https://nice-plant-085155400.azurestaticapps.net/">
-  </a>
-</div>
+## Webiste sapmple ~ <a href="https://nice-plant-085155400.azurestaticapps.net/"></a>
 
 ### Note: Used Lorem Ipsum content for sample website.
 
@@ -37,6 +32,12 @@ Any user (patient) can have a look on different features of layout of the webist
 - Has a logo and name of the hospital on the top-left of layout.
 - Has different features visible on the top-right of the layout.
 - Tells about how many patients, hospitals, doctors ahve worked till now.
+
+<div>
+  <a href="https://github.com/sansjha4900/web-for-azure/blob/c103e408200570e8492d6d2597f878310aa4d081/Screenshot%20(337).png">
+    <img align="left" width="240px"  src="https://github.com/sansjha4900/web-for-azure/blob/c103e408200570e8492d6d2597f878310aa4d081/Screenshot%20(337).png">
+  </a>
+</div>
 
 ### Services:
 
@@ -88,14 +89,6 @@ Any user (patient) can have a look on different features of layout of the webist
 - Does not contain real details of the webiste as it is a sample webiste.
 - Does not have back-end so there is minimal functionality.
 - Can not save information as it does not have database.
-
-## Responsiveness ~
-
-<div>
-  <a href="https://github.com/sansjha4900/web-for-azure/blob/c103e408200570e8492d6d2597f878310aa4d081/Screenshot%20(337).png">
-    <img align="left" width="240px"  src="https://github.com/sansjha4900/web-for-azure/blob/c103e408200570e8492d6d2597f878310aa4d081/Screenshot%20(337).png">
-  </a>
-</div>
 
 <div>
   <a href="https://github.com/sansjha4900/web-for-azure/blob/c103e408200570e8492d6d2597f878310aa4d081/Screenshot%20(338).jpg">
