@@ -18,7 +18,7 @@ Any user (patient) can have a look on different features of layout of the webist
 
 <br />
 
-## Webiste sapmple ~ <a href="https://nice-plant-085155400.azurestaticapps.net/"></a>
+## Webiste sapmple ~ <a href="https://nice-plant-085155400.azurestaticapps.net/">MedCare</a>
 
 ### Note: Used Lorem Ipsum content for sample website.
 
@@ -35,7 +35,7 @@ Any user (patient) can have a look on different features of layout of the webist
 
 <div>
   <a href="https://github.com/sansjha4900/web-for-azure/blob/c103e408200570e8492d6d2597f878310aa4d081/Screenshot%20(337).png">
-    <img align="left" width="240px"  src="https://github.com/sansjha4900/web-for-azure/blob/c103e408200570e8492d6d2597f878310aa4d081/Screenshot%20(337).png">
+    <img align="right" width="240px"  src="https://github.com/sansjha4900/web-for-azure/blob/c103e408200570e8492d6d2597f878310aa4d081/Screenshot%20(337).png">
   </a>
 </div>
 
