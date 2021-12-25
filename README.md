@@ -91,6 +91,8 @@ Any user (patient) can have a look on different features of layout of the webist
 - Has contact information about the hospital.
 - Has social media handles for the hospital.
 
+<br />
+
 ## Drawbacks ~
 
 - Does not contain real details of the webiste as it is a sample webiste.
