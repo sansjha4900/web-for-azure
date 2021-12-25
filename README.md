@@ -60,6 +60,12 @@ Any user (patient) can have a look on different features of layout of the webist
 - Contains 6 different doctors details available.
 - Has their social media handles for emergency purpose.
 
+<div>
+  <a href="https://github.com/sansjha4900/web-for-azure/blob/c103e408200570e8492d6d2597f878310aa4d081/Screenshot%20(338).jpg">
+    <img align="right" width="240px"  src="https://github.com/sansjha4900/web-for-azure/blob/c103e408200570e8492d6d2597f878310aa4d081/Screenshot%20(338).jpg">
+  </a>
+</div>
+
 ### Book Appointment:
 
 - Has a pretty and clean layout for user to understand.
@@ -89,9 +95,3 @@ Any user (patient) can have a look on different features of layout of the webist
 - Does not contain real details of the webiste as it is a sample webiste.
 - Does not have back-end so there is minimal functionality.
 - Can not save information as it does not have database.
-
-<div>
-  <a href="https://github.com/sansjha4900/web-for-azure/blob/c103e408200570e8492d6d2597f878310aa4d081/Screenshot%20(338).jpg">
-    <img align="left" width="240px"  src="https://github.com/sansjha4900/web-for-azure/blob/c103e408200570e8492d6d2597f878310aa4d081/Screenshot%20(338).jpg">
-  </a>
-</div>
