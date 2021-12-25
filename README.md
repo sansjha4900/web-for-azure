@@ -21,7 +21,7 @@ Any user (patient) can have a look on different features of layout of the webist
 
 <br />
 
-## Webiste sample ~ <a href="https://nice-plant-085155400.azurestaticapps.net/" target="_blank">MedCare</a>
+## Website sample ~ <a href="https://nice-plant-085155400.azurestaticapps.net/" target="_blank">MedCare</a>
 
 ### Note: Used Lorem Ipsum content for sample website.
 
