@@ -53,18 +53,18 @@ Any user (patient) can have a look on different features of layout of the webist
 - Has an animated layout for user to get interested in reading.
 - Has a straight-forward tagline to grab attention of the user.
 
+<div>
+  <a href="https://github.com/sansjha4900/web-for-azure/blob/c103e408200570e8492d6d2597f878310aa4d081/Screenshot%20(338).jpg">
+    <img align="right" width="240px"  src="https://github.com/sansjha4900/web-for-azure/blob/c103e408200570e8492d6d2597f878310aa4d081/Screenshot%20(338).jpg">
+  </a>
+</div>
+
 ### Our Doctors:
 
 - Contains details about the doctors of the hospital.
 - Has an overview of each and every doctor working.
 - Contains 6 different doctors details available.
 - Has their social media handles for emergency purpose.
-
-<div>
-  <a href="https://github.com/sansjha4900/web-for-azure/blob/c103e408200570e8492d6d2597f878310aa4d081/Screenshot%20(338).jpg">
-    <img align="right" width="240px"  src="https://github.com/sansjha4900/web-for-azure/blob/c103e408200570e8492d6d2597f878310aa4d081/Screenshot%20(338).jpg">
-  </a>
-</div>
 
 ### Book Appointment:
 
