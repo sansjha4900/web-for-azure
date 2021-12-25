@@ -1,4 +1,5 @@
 [![Build Status](https://github.com/sansjha4900/web-for-azure/actions/workflows/azure-static-web-apps-nice-plant-085155400.yml/badge.svg?branch=main)](https://github.com/sansjha4900/web-for-azure/actions/workflows/azure-static-web-apps-nice-plant-085155400.yml)
+
 <br />
 
 ## About The Project
