@@ -1,4 +1,4 @@
-![Build Status](https://github.com/sansjha4900/web-for-azure/actions/workflows/azure-static-web-apps-nice-plant-085155400.yml)
+[![Build Status](https://github.com/sansjha4900/web-for-azure/actions/workflows/azure-static-web-apps-nice-plant-085155400.yml)]
 <br />
 
 ## About The Project
