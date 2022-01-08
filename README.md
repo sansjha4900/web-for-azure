@@ -23,11 +23,15 @@ Any user (patient) can have a look on different features of layout of the webist
 
 <br />
 
+![](https://i.imgur.com/waxVImv.png)
+
 ## Website sample ~ <a href="https://nice-plant-085155400.azurestaticapps.net/" target="_blank">MedCare</a>
 
 ### Note: Used Lorem Ipsum content for sample website.
 
 <br /> 
+
+![](https://i.imgur.com/waxVImv.png)
 
 ## Layouts ~
 
@@ -96,6 +100,8 @@ Any user (patient) can have a look on different features of layout of the webist
 - Has social media handles for the hospital.
 
 <br />
+
+![](https://i.imgur.com/waxVImv.png)
 
 ## Drawbacks ~
 
