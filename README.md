@@ -4,6 +4,8 @@
 <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-purple.svg?labelColor=303030" /></a>
 <br />
 
+![](https://i.imgur.com/waxVImv.png)
+
 ## About The Project
 
 <div>
